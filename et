@@ -1,0 +1,11 @@
++----+----------+-----------------------------------------------------+-------------------------+-------------------------+
+| id | username | password_digest                                     | created_at              | updated_at              |
++----+----------+-----------------------------------------------------+-------------------------+-------------------------+
+| 1  | Iliyana  | $2a$10$MSi876Y5q2RWyD0jiuI.BuM.UGW.alrH1MljDghkw... | 2018-12-10 13:04:30 UTC | 2018-12-10 13:04:30 UTC |
+| 2  | Evgeny   | $2a$10$WlUl48vRJwvmHBrkPGJanOOlnR/gx0Hau7z1tcdYA... | 2018-12-10 13:05:41 UTC | 2018-12-10 13:05:41 UTC |
+| 3  | Jonsnow  | $2a$10$5p0TMgPOoufn8YkzxHxwP.MFAaqXAiqy0IC718yeV... | 2018-12-10 13:05:41 UTC | 2018-12-10 13:05:41 UTC |
+| 4  | Arya     | $2a$10$.EccKLH/tERhvAUryqHzZ.0/VMPK5ReCipoIGc.Nr... | 2018-12-10 13:05:42 UTC | 2018-12-10 13:05:42 UTC |
+| 5  | Frodo    | $2a$10$dxEQJzLmM.voxsGUjCW.Ie.3HE7cubllN08o0Qbzi... | 2018-12-10 13:05:42 UTC | 2018-12-10 13:05:42 UTC |
+| 6  | Gandalf  | $2a$10$5Wj026DV7v0OOZmkHiCdxe9L9BnbEKicTsIjrYtyN... | 2018-12-10 13:05:42 UTC | 2018-12-10 13:05:42 UTC |
++----+----------+-----------------------------------------------------+-------------------------+-------------------------+
+6 rows in set
